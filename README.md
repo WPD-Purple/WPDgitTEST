@@ -1,5 +1,6 @@
 # WPDのファイルコラボレーション練習用リポジトリ
-## Gihubのとりあえず簡単な始め方
+## Githubのとりあえず簡単な始め方
+参考サイト [始めてのpull request @ GitHub](http://rcmdnk.github.io/blog/2013/05/19/computer-git-github/)
 
 ### 1:アカウントを取得して　ソフトウェアをインストールする
 
